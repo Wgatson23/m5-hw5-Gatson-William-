@@ -1,56 +1,75 @@
 .topnav {
-    float: right;
-    font-size: 25px;
-
+	float: right;
+	font-size: 25px;
+	word-spacing: 10px;
+	background-color: blanchedalmond;
+}
+#top {
+    text-align: left;
+    
 }
 
 h1 {
-    text-align: center;
-    font-size: 50px;
+	text-align: center;
+	font-size: 40px;
+	padding: 10px 100px 10px 32px;
+	margin: 50px;
+	background-color: bisque;
+	border-radius: 150px;
 }
 h2 {
-    font-size: 30;
-    font-weight: bold;
-
+	font-size: 30px;
+	font-weight: bold;
 }
+#contact {
+	font-size: 30px;
+	padding: 0px 10px 10px 32px;
+	text-align: center;
+	float: right;
+	text-decoration: none;
+}
+
 p {
-    width: 1550px;
-    font-size: 20px;
-    background-color: whitesmoke;
-    display: block;
+	width: 1550px;
+	font-size: 20px;
+	background-color: whitesmoke;
+	display: block;
 }
 
 img {
-    float: left;
-    margin: 16px;
+	float: left;
+	margin: 16px;
 }
 
 .sidebar {
-    float: right;
-    padding: 10px 10px 10px 32px;
-    text-decoration: none;
-    font-size: 20px;
-    color: #818181;
-    display: inline-block;
-    background-color: whitesmoke;
+	float: right;
+	padding: 10px 100px 10px 32px;
+	text-decoration: none;
+	font-size: 20px;
+    text-align: center;
+	color: #818181;
+	background-color: whitesmoke;
+	border: 10px dotted;
 }
 
 body {
-    background-image: radial-gradient(#ddd 1px, transparent 1px),
-        radial-gradient(#ddd 1px, transparent 1px);
-    background-position: 0 0, 25px 25px;
-    background-size: 50px 50px;
-    background-attachment: fixed;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-image: radial-gradient(#ddd 1px, transparent 1px),
+		radial-gradient(#ddd 1px, transparent 1px);
+	background-position: 0 0, 25px 25px;
+	background-size: 50px 50px;
+	background-attachment: fixed;
 }
 
 .sidebar li {
-    list-style-type: none;
-    margin: 20px;
+	list-style-type: none;
+	margin: 20px;
 }
 
 .topof {
-    font-size: 30px;
-    text-align: center;
-    list-style-type: none;
-    padding: 10px 10px 10px 32px;
+	font-size: 20px;
+	list-style-type: none;
+	padding: 10px;
+	text-decoration-line: underline;
+    
 }
