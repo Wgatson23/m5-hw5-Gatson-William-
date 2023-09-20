@@ -4,9 +4,9 @@
 	word-spacing: 10px;
 	background-color: blanchedalmond;
 }
+
 #top {
-    text-align: left;
-    
+	text-align: left;
 }
 
 h1 {
@@ -17,10 +17,12 @@ h1 {
 	background-color: bisque;
 	border-radius: 150px;
 }
+
 h2 {
 	font-size: 30px;
 	font-weight: bold;
 }
+
 #contact {
 	font-size: 30px;
 	padding: 0px 10px 10px 32px;
@@ -43,13 +45,13 @@ img {
 
 .sidebar {
 	float: right;
-	padding: 10px 100px 10px 32px;
+	padding: 10px 10px 10px 10px;
 	text-decoration: none;
 	font-size: 20px;
-    text-align: center;
+	text-align: center;
 	color: #818181;
 	background-color: whitesmoke;
-	border: 10px dotted;
+	border: 05px dotted;
 }
 
 body {
@@ -64,6 +66,7 @@ body {
 .sidebar li {
 	list-style-type: none;
 	margin: 20px;
+	padding: 10px 10px 10px 10px;
 }
 
 .topof {
@@ -71,5 +74,4 @@ body {
 	list-style-type: none;
 	padding: 10px;
 	text-decoration-line: underline;
-    
 }
