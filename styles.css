@@ -42,6 +42,11 @@ h2 {
 	display: inline-block;
 }
 
+.stext {
+font-weight: bold;
+text-decoration-line: underline;
+}
+
 main {
 	width: 55%;
 	padding: 20px;
@@ -59,6 +64,7 @@ img {
 	font-size: 30px;
 	text-align: center;
 	color: rgb(0, 33, 165);
+	
 }
 
 .container {
@@ -85,13 +91,6 @@ p {
 	font-size: 20px;
 	line-height: 25px;
 	display: inline-block;
-}
-
-.topof {
-	font-size: 20px;
-	list-style-type: none;
-	padding: 10px;
-	text-decoration-line: underline;
 }
 
 footer {
