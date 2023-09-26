@@ -1,14 +1,18 @@
 .topnav {
 	width: 20%;
-	float:right;
+	float: right;
 	text-align: center;
 	font-size: 20px;
 	word-spacing: 10px;
 	margin-top: 15px;
 }
 
+header,
+nav {
+	padding: 0 20px;
+	background-color: #fa4616;
+}
 header {
-	padding: 20px 0;
 	border-bottom: 3px solid blue;
 }
 
@@ -93,9 +97,9 @@ p {
 	text-decoration-line: underline;
 }
 
-aside {
-	padding: 10px;
+footer {
 	font-size: 20px;
 	text-align: center;
-	color: rgb(0, 33, 165);
+	color: white;
+	background-color: #fa4616;
 }
