@@ -55,7 +55,6 @@ img {
 	font-size: 30px;
 	text-align: center;
 	color: rgb(0, 33, 165);
-	border: 5px dotted;
 }
 
 .container {
@@ -71,12 +70,6 @@ body {
 	background-size: 50px 50px;
 	background-attachment: fixed;
 	background: antiquewhite;
-}
-
-.sidebar li {
-	margin: 20px;
-	padding: 10px 10px 10px 10px;
-	background-image: radial-gradient(#ddd 1px, transparent 1px);
 }
 
 li {
