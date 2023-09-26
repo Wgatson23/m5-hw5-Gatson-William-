@@ -47,9 +47,7 @@ font-weight: bold;
 text-decoration-line: underline;
 }
 
-.icon {
-	flex-direction: row;
-}
+
 main {
 	width: 55%;
 	padding: 20px;
@@ -61,11 +59,10 @@ img {
 }
 
 .sidebar {
+	flex-direction: row;
 	float: right;
-	padding: 10px 10px 10px 10px;
-	text-decoration: none;
+	padding: 10px 40px 10px 10px;
 	font-size: 30px;
-	text-align: center;
 	color: rgb(0, 33, 165);
 	
 }
@@ -101,5 +98,4 @@ footer {
 	text-align: center;
 	color: white;
 	background-color: #fa4616;
-	
 }
