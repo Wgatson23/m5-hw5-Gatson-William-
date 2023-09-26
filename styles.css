@@ -14,6 +14,7 @@ nav {
 }
 header {
 	border-bottom: 3px solid blue;
+	
 }
 
 img {
@@ -34,7 +35,6 @@ h2 {
 	text-transform: uppercase;
 	font-weight: bold;
 	text-align: center;
-	border-radius: 140px;
 	border-bottom: 3px solid blue;
 	width: 1550px;
 	font-size: 30px;
@@ -47,6 +47,9 @@ font-weight: bold;
 text-decoration-line: underline;
 }
 
+.icon {
+	flex-direction: row;
+}
 main {
 	width: 55%;
 	padding: 20px;
