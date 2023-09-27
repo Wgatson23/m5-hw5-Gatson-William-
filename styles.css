@@ -12,9 +12,10 @@ nav {
 	padding: 0 20px;
 	background-color: #fa4616;
 }
+
 header {
 	border-bottom: 3px solid blue;
-	
+
 }
 
 img {
@@ -37,14 +38,13 @@ h2 {
 	text-align: center;
 	border-bottom: 3px solid blue;
 	width: 1550px;
-	font-size: 30px;
 	line-height: 25px;
 	display: inline-block;
 }
 
 .stext {
-font-weight: bold;
-text-decoration-line: underline;
+	font-weight: bold;
+	text-decoration-line: underline;
 }
 
 
@@ -64,7 +64,7 @@ img {
 	padding: 10px 40px 10px 10px;
 	font-size: 30px;
 	color: rgb(0, 33, 165);
-	
+
 }
 
 .container {
