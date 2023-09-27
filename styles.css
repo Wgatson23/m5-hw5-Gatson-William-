@@ -63,6 +63,7 @@ img {
 .sidebar {
 	width: 20%;
 	flex-direction: row;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	float: right;
 	padding: 10px 10px 10px 0px;
 	font-size: 30px;
