@@ -64,6 +64,7 @@ img {
 	padding: 10px 40px 10px 10px;
 	font-size: 30px;
 	color: rgb(0, 33, 165);
+	background-color: aliceblue;
 
 }
 
@@ -91,6 +92,7 @@ p {
 	font-size: 20px;
 	line-height: 25px;
 	display: inline-block;
+	background-color: aliceblue;
 }
 
 footer {
